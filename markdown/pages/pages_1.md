@@ -1,6 +1,6 @@
 Title: About
 
-# cmsimde 內容管理系統
+# cmsimde內容管理系統
 
 倉儲: <a href="https://github.com/mdecycu/cmsimde_site">https://github.com/mdecycu/cmsimde_site</a>
 
