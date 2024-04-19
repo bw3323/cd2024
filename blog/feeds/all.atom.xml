@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123131協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-12T07:35:01+08:00</updated><entry><title>w4</title><link href="./w4.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-03-29T06:32:32+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-03-15:./w4.html</id><summary type="html">&lt;p&gt;w4上課內容.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123131協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-19T11:00:00+08:00</updated><entry><title>w9</title><link href="./w9.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-04-19T05:40:55+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-04-19:./w9.html</id><content type="html">&lt;p&gt;w9上課內容.&lt;/p&gt;
+&lt;h1&gt;期中&lt;/h1&gt;
+&lt;p&gt;進行自評&lt;/p&gt;
+</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>w8</title><link href="./w8.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-04-19T05:40:25+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-04-12:./w8.html</id><content type="html">&lt;p&gt;w8上課內容.&lt;/p&gt;
+&lt;h1&gt;測試&lt;/h1&gt;
+&lt;p&gt;組長進行更新測試&lt;/p&gt;
+</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>w7</title><link href="./w7.html" rel="alternate"></link><published>2024-04-05T11:00:00+08:00</published><updated>2024-04-19T05:41:03+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-04-05:./w7.html</id><content type="html">&lt;p&gt;w7上課內容.&lt;/p&gt;
+&lt;h1&gt;放假&lt;/h1&gt;
+</content><category term="w7"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>w4</title><link href="./w4.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-03-29T06:32:32+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-03-15:./w4.html</id><summary type="html">&lt;p&gt;w4上課內容.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;w4上課內容.&lt;/p&gt;
 
 
@@ -16,9 +24,7 @@
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/41123131_nfu_edu_tw/ES8rPFEcLfBPqU9vIGh0lHsBo7fjfTXhXLsqTtvRDX_LiQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=hDgkyf"&gt;翻譯影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123131_nfu_edu_tw/Eaa5i196Y_lAlKnxZjwvyhYB3feaC3vW2yJfYH70n9z0RQ?e=n0nLFp"&gt;逐字稿&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;點選網址https://github.com/mdecycu/cmsimde_site 進入cd2024 的倉儲 template後，建立新的倉儲CD2024，進入設定Pages，點選main設圍網址的根目錄&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>w5</title><link href="./w6.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-03-29T07:27:54+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-03-15:./w6.html</id><content type="html">&lt;p&gt;w6上課內容.&lt;/p&gt;
-</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>w7</title><link href="./w7.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-04-12T07:35:01+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-03-15:./w7.html</id><content type="html">&lt;p&gt;w6上課內容.&lt;/p&gt;
-&lt;h1&gt;放假&lt;/h1&gt;
-</content><category term="w7"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>w3</title><link href="./w3.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-03-29T06:32:17+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-03-08:./w3.html</id><summary type="html">&lt;p&gt;w3上課內容.&lt;/p&gt;
+</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>w3</title><link href="./w3.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-03-29T06:32:17+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-03-08:./w3.html</id><summary type="html">&lt;p&gt;w3上課內容.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;w3上課內容.&lt;/p&gt;
 
 
