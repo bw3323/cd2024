@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-05-11T13:14:43-00:00</lastmod>
+<lastmod>2024-05-24T05:45:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-05-11T13:14:43-00:00</lastmod>
+<lastmod>2024-05-24T05:45:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-05-11T13:14:43-00:00</lastmod>
+<lastmod>2024-05-24T05:45:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-05-11T13:14:43-00:00</lastmod>
+<lastmod>2024-05-24T05:45:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2024-03-01T06:08:58+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w14 41123131.html</loc>
+<lastmod>2024-05-24T05:45:37+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w13 41123131.html</loc>
+<lastmod>2024-05-24T05:45:05+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w12 41123131.html</loc>
+<lastmod>2024-05-24T05:44:40+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w11 41123131.html</loc>
+<lastmod>2024-05-24T05:44:09+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -110,28 +138,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/41123131.html</loc>
-<lastmod>2024-05-11T13:14:28+08:06</lastmod>
+<lastmod>2024-05-24T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/wang-zhi-bian-xie.html</loc>
-<lastmod>2024-05-11T13:14:28+08:06</lastmod>
+<lastmod>2024-05-24T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/pelicanch.html</loc>
-<lastmod>2024-05-11T13:14:28+08:06</lastmod>
+<lastmod>2024-05-24T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/41123131.html</loc>
-<lastmod>2024-05-11T13:14:20+08:06</lastmod>
+<lastmod>2024-05-24T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
